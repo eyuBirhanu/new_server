@@ -1,4 +1,4 @@
-import express from 'express';
+const express = require('express');
 // const userRoutes = require('./user');
 
 const router = express.Router();
@@ -8,4 +8,4 @@ const router = express.Router();
 
 // Add other routes here as needed
 
-export default router;
+module.exports = router;

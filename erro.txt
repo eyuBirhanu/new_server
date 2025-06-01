@@ -1,0 +1,13 @@
+mac@macs-MacBook-Pro new_server % npm start
+
+> chat-bot-backend@1.0.0 start
+> node src/app.js
+
+Port 50 is already in use. Please try a different port or kill the process using this port.
+mac@macs-MacBook-Pro new_server % 
+
+macs-MacBook-Pro:src mac$ node app.js
+Server is running on port 5001
+Database connected!
+Connection to the SQL database has been established successfully.
+
